@@ -8,8 +8,7 @@ filename1 is the data file that contains current inventory information to read i
 
 ---
 
-### The following data will be in the file in this order for **each grocery item**. Each field will be separated by a
-tab character.
+### The following data will be in the file in this order for **each grocery item**. Each field will be separated by a tab character.
 - Grocery Item (Assume the name can contain white space)
 - Grocery Store Department (Assume the department name can contain white space.)
 - stock number (1 - 10000)
