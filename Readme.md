@@ -1,8 +1,10 @@
 ## This program is a grocery store item system that is able to store and process data that manage inventory and to keep business records.
----
+
 
 The program will **execute** in the following format:
+
     lab4 date filename1 filename2
+
 where lab4 is the name of the executable, date is today’s date in the form month/day/year where: month is 1-12, day is 1-31, year is some 4-digit year, 
 filename1 is the data file that contains current inventory information to read in, filename2 is a data file that your program will create with the output inventory.
 
