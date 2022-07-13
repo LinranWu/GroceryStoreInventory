@@ -1,4 +1,4 @@
-## This program is a grocery store item system that is able to store and process data that manage inventory and to keep business records.
+## This program is a grocery store item system that is able to store and process data that manages inventory and to keep business records.
 
 
 The program will **execute** in the following format:
